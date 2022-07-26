@@ -44,6 +44,6 @@ Hmm.. I think my T.M.I is may be enough.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOLLT44&layout=compact&theme=tokyonight)
 
 ### | BaekJoon (Solved.ac) |
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bollt44)](https://solved.ac/bollt44/)  
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bollt44)](https://solved.ac/bollt44)
+ 
 </div>
