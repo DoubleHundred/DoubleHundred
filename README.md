@@ -5,7 +5,7 @@
 Hello! my name is BOLLT :)  
 
 아직 C언어에 미숙한 초보자에요 :disappointed_relieved:  
-I'm poor at C langueage :disappointed_relieved:  
+I'm poor at C language :disappointed_relieved:  
 
 언젠가 저도 여러분들 처럼 잘 할 수 있는 날이 오겠죠? :smile:  
 When will it comes that I'm good at C like you? :smile:  
