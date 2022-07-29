@@ -26,7 +26,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOLLT44&layout=compact&theme=tokyonight)
 
 ### | BaekJoon (Solved.ac) |
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bollt44)](https://solved.ac/bollt44)  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bollt44)](https://solved.ac/{bollt44})  
 <img src="http://mazandi.herokuapp.com/api?handle=bollt44&theme=dark"/>
  
 </div>
