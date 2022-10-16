@@ -1,11 +1,7 @@
 <div align="center">
 
 # ✨ Welcome to my *Code Laboratory!*  
-안녕하세요, 볼트입니다!  
-현재 C언어를 하고 있고요, 초보자 랍니다 ㅎㅎ
-
-코딩이랑 IT 좋아하고 7개의 SNS를 하고 있어요!
-(실제론 더 많답니다)
+std::cout << "Welcome!";
 
 # 💻 BOLLT Studi'O
 ### | My SNS |
