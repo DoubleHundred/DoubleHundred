@@ -2,7 +2,7 @@
 
 # ✨ Welcome to my *Code Laboratory!* 
 
-std::cout << "Welcome!";
+std::cout << "Welcome!";   
 볼트의 GitHub랍니다~!
 
 # 💻 BOLLT Studi'O
