@@ -1,7 +1,9 @@
 <div align="center">
 
-# ✨ Welcome to my *Code Laboratory!*  
+# ✨ Welcome to my *Code Laboratory!* 
+
 std::cout << "Welcome!";
+볼트의 GitHub랍니다~!
 
 # 💻 BOLLT Studi'O
 ### | My SNS |
