@@ -2,7 +2,8 @@
 
 # ✨ Welcome to my *Code Laboratory!* 
 
-std::cout << "Welcome!";   
+std::cout << "Welcome!";  
+온백의 코드 저장소입니다!
 
 # 💻 BOLLT Studi'O
 ### | My SNS |
@@ -17,8 +18,8 @@ std::cout << "Welcome!";
  # 📑 Stats
 ### | GitHub |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BOLLT44&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOLLT44&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleHundred&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoubleHundred&layout=compact&theme=tokyonight)
 
 ### | BaekJoon (Solved.ac) |
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bollt44)](https://solved.ac/{bollt44})  
