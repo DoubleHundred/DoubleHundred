@@ -5,7 +5,7 @@
 std::cout << "Welcome!";  
 온백의 코드 저장소입니다!
 
-# 💻 BOLLT Studi'O
+# 💻 SNS
 ### | My SNS |
 <p>
 <a href="https://bollt.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-Tistory-lightgrey?style=flat-square&logo=tistory&logocolor=white"/></a>
