@@ -12,7 +12,6 @@ std::cout << "Welcome!";
 <a href="https://www.youtube.com/channel/UCA-5RGnzDV2rskwBk241u3A" target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logocolor=red"/></a>
 <a href="https://www.twitch.tv/hundred_100__" target="_blank"><img src="https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=twitch&logocolor=white"/></a>
 <a href="https://twitter.com/_hundred_100__" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logocolor=white"/></a>
-<a href=" https://discord.gg/CJbnRZxMCQ" target="_blank"><img src="https://img.shields.io/badge/-Discord-grey?style=flat-square&logo=discord&logocolor=white"/></a>
 </p>
 
  # 📑 Stats
